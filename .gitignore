@@ -1,0 +1,6 @@
+# Ignorar la carpeta manejo de conectores
+manejodeconectores/
+
+# Ignorar carpetas de configuración del IDE
+.idea/
+out/

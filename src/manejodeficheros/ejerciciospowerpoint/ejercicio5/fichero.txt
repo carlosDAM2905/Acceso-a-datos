@@ -1,0 +1,3 @@
+He creado un programa en Java que a partir de una cadena de caracteres permita almacenarlos en un fichero de texto.
+El programa añadirá un carácter * para indicar que ha llegado al final del fichero.
+*
